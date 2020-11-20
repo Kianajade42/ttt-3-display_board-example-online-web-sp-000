@@ -3,7 +3,7 @@ def display_board
 end
  3.times{print"   "}
 
-puts "   |   "   "   |   "
+puts "   |   |   "
 puts "-----------"
 puts "   |   |   "
 puts "-----------"
